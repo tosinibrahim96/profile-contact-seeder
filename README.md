@@ -51,4 +51,4 @@ $ php artisan serve --port={PORT_NUMBER} (setting a PORT manually)
 ### License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2021 © <a href="https://tosinibrahim96.github.io/Resume/" target="_blank">Ibrahim Alausa</a>.
+- Copyright 2022 © <a href="https://tosinibrahim96.github.io/Resume/" target="_blank">Ibrahim Alausa</a>.
