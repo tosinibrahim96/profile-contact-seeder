@@ -1,4 +1,4 @@
-# Profile Matcher
+# Profiles Contacts Seeder 
 
 > Laravel application for seeding contact and profile details to Trengo server.
 
